@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="5" total="6" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-26T23:40:51 CDT" name="Default suite" finished-at="2021-09-26T23:40:52 CDT" duration-ms="65">
+    <groups>
+    </groups>
+    <test started-at="2021-09-26T23:40:51 CDT" name="Default test" finished-at="2021-09-26T23:40:52 CDT" duration-ms="65">
+      <class name="TestcasesFor3parameters._TestcasesFor3parameters.valiadte3inputs">
+        <test-method signature="maxw2()[pri:0, instance:TestcasesFor3parameters._TestcasesFor3parameters.valiadte3inputs@5a63f509]" started-at="2021-09-26T23:40:52 CDT" name="maxw2" finished-at="2021-09-26T23:40:52 CDT" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maxw2 -->
+      </class> <!-- TestcasesFor3parameters._TestcasesFor3parameters.valiadte3inputs -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
